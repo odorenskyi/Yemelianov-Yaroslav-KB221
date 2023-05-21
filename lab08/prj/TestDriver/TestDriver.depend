@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1684674830 source:d:\lab8\prj\testdriver\main.cpp
+	<iostream>
+	<cmath>
+	"ModulesYemelyanov.h"
+
+1684675040 d:\lab8\prj\testdriver\modulesyemelyanov.h
+	<cmath>
+
