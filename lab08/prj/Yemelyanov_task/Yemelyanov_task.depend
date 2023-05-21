@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1684675463 source:d:\lab8\prj\yemelyanov_task\main.cpp
+	<iostream>
+	<clocale>
+	"ModulesYemelyanov.h"
+
+1684675040 d:\lab8\prj\yemelyanov_task\modulesyemelyanov.h
+	<cmath>
+
